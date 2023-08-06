@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey! 👋<br><br>I'm a 4th Year Computer Science Student from NIIT Univeristy, specializing in Data Science. I am looking forward to work in <br>👨‍💻 Software Development Engineering <br>📊 Data Science <br>🤖 Artificial Intelligence<br>🌐 Web Development <br><br>⚡ Fun fact : <br><br>
+Hey! 👋<br><br>I'm a 4th Year Computer Science Student from NIIT Univeristy, specializing in Data Science. I am looking forward to work in <br>👨‍💻 Software Development Engineering <br>📊 Data Science <br>🤖 Artificial Intelligence<br>🌐 Web Development <br><br>
 
 
 ## 🌐 Socials:
