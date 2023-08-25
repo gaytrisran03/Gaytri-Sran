@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=50&pause=1000&color=C3C3C3&background=0638758E&center=true&vCenter=true&width=1000&height=150&lines=Hey%2C+I'm+Gaytri+Sran;Welcome+to+my+profile!!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=50&pause=1000&color=FFFFFF&background=0638758E&center=true&vCenter=true&width=1000&height=150&lines=Hey%2C+I'm+Gaytri+Sran;Welcome+to+my+profile!!)](https://git.io/typing-svg)
 
 
 <h3 align="center">Creative Technologist | Data Enthusiast | Artistic Explorer</h3>
