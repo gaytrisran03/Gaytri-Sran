@@ -1,9 +1,7 @@
 <div align="center">
-  <img alt="Banner" src="https://github.com/gaytrisran03/gaytrisran03/blob/main/gaytri.jpg" width="300" />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=C3C3C3&background=0638758E&center=true&vCenter=true&width=435&lines=Hey%2C+I'm+Gaytri+Sran;Welcome+to+my+profile!!" alt="Typing SVG" /></a>
 </div>
 
-
-<h1 align="center">Gaytri Sran</h1>
 
 <h3 align="center">Creative Technologist | Data Enthusiast | Artistic Explorer</h3>
 
