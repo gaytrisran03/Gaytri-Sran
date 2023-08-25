@@ -14,7 +14,7 @@
 
 A tech enthusiast with a creative twist, I thrive at the intersection of technology and imagination. Strong command over Data Structures & Algorithms, MERN Stack, and Passion for Generative AI and LLM-based Projects, my coding journey dances through various realms of possibility.
 
-## What Drives Me
+## Interests
 
 <ul>
               <li>
