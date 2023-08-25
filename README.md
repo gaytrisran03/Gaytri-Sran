@@ -1,12 +1,14 @@
+<div align="center">
+  <img alt="Banner" src="https://github.com/gaytrisran03/gaytrisran03/blob/main/gaytri.jpg" width="300" />
+</div>
 
-![Profile](./gaytri.png)
 
 <h1 align="center">Gaytri Sran</h1>
 
 <h3 align="center">Creative Technologist | Data Enthusiast | Artistic Explorer</h3>
 
 <div align="center" >
-  <a href="https://drive.google.com/file/d/1dCuHh-K2C_C6mswaVEBaO0mgqATuzPTd/view" target="_blank">
+  <a href="https://drive.google.com/file/d/1yOv7MMtp7O6DdyJPkv455OazgbFEJ4uc/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/resume-063875?style=for-the-badge&logo=resume&logoColor=white" width="130" height="50" />
   </a>
 </div>
