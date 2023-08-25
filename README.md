@@ -30,5 +30,5 @@ A tech enthusiast with a creative twist, I thrive at the intersection of technol
 - **Email:** gaytrisran03@gmail.com
 - **Location:** Faridabad, Haryana
 
-Join me on my journey through [Portfolio](https://gaytrisran-gs14.github.io/) or [GitHub](https://github.com/gaytrisran-gs14). We can continue this adventure on [LinkedIn](https://www.linkedin.com/in/gaytri-sran-gs14/) and even sneak a peek into my creative world on [Instagram](https://www.instagram.com/gaytrisran/). Let's keep exploring, creating, and making a difference together! 😊
+Join me on my journey through [Portfolio](https://gaytrisran03.github.io/portfolio-gaytri/) or [GitHub](https://github.com/gaytrisran03). We can continue this adventure on [LinkedIn](https://www.linkedin.com/in/gaytri-sran-gs14/) and even sneak a peek into my creative world on [Instagram](https://www.instagram.com/gaytrisran/). Let's keep exploring, creating, and making a difference together! 😊
 
